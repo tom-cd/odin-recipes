@@ -3,6 +3,12 @@
     font-family: "San Francisco", Arial, Helvetica, sans-serif;
 }
 
+body {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }  
+
 h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 52px;
