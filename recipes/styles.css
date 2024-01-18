@@ -1,0 +1,37 @@
+* {
+    background-color: white;
+    font-family: "San Francisco", Arial, Helvetica, sans-serif;
+}
+
+body {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }  
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    font-weight: bolder;
+    font-style: italic;
+    color: #fb8500;
+}
+
+a#home {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    font-weight: bolder;
+    font-style: normal;
+    color: #fb8500;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: normal;
+    color: #ffb703;
+}
+
+.note {
+    color: #023047;
+    font-style: italic;
+}
