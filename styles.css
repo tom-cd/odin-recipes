@@ -1,0 +1,25 @@
+* {
+    background-color: white;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 52px;
+    font-weight: bolder;
+    font-style: italic;
+    color: #fb8500;
+}
+
+.header {
+    font-family: "San Francisco", Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    color: #ffb703;
+}
+
+.recipes a {
+    font-family: "San Francisco", Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    
+}
