@@ -7,7 +7,7 @@ body {
     width: 80%;
     max-width: 1200px;
     margin: 0 auto;
-  }  
+}
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
@@ -26,5 +26,21 @@ h2 {
 .recipes a {
     font-size: 22px;
     font-weight: normal;
-    
+}
+
+.recipes ul {
+    list-style-type: none; /* Removes bullet points */
+    padding: 0; /* Removes default padding */
+    display: flex; /* Enables Flexbox */
+    flex-direction: column; /* Stacks items vertically */
+    align-items: center; /* Centers items horizontally within the container */
+}
+
+.recipes li {
+    text-align: center;
+    border: 6px solid #fb8500;
+    border-radius: 10px;
+    padding: 26px;
+    margin: 12px;
+    width: 40%; /* Maintains the width, but now centered */
 }
